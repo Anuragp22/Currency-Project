@@ -1,4 +1,4 @@
-# notes for currency converter app
+<!-- # notes for currency converter app
 
 ## api link
 
@@ -104,4 +104,4 @@ function App() {
         </div>
     );
 
-```
+``` -->
